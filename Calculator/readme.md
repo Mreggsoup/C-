@@ -7,4 +7,4 @@ Run the python file by double clicking it or opening a terminal/command prompt.
 If you were to open a terminal/command prompt type in: python3 compile.py.
 To compile the c++ file directly type this in: g++ -o Calculator calculate.cpp
 
-To Download Python Follow this Link: <a href="https://www.python.org/">Python Download</a>
+To Download Python Follow this <a href="https://www.python.org/">link</a>.
