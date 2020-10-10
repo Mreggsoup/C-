@@ -19,9 +19,9 @@ int main() {
 	
 	double choice;
 	double add1;
-    double add2;
+        double add2;
 	double sub1; 
-    double sub2;
+        double sub2;
 	double mul1;
 	double mul2;
 	double div1;
