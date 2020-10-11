@@ -8,8 +8,8 @@ int main() {
     do {
     double mom;
     double dad;
-    double height;
     string boygirl;
+   
     
     
     cout <<" \n\nWELCOME TO THE C++ HEIGHT PREDICTION PROGRAM";
