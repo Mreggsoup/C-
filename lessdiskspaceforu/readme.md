@@ -19,7 +19,7 @@ https://www.dll-files.com/. There you can find the missing dll file.
 
 if you want to compile the source code open your command prompt(windows) or termainl(linux) and type in:
 g++ -o main main.cpp
-then to run it on windows wither type in main or main.exe
+then to run it on windows either type in main or main.exe
 for linux type in ./main
 
 
