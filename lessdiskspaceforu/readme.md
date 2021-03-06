@@ -1,4 +1,4 @@
-#Less Disk Space For U
+# Less Disk Space For U
 
 This program basically makes a very very very big file on your computer very quick
 in only a few seconds the program would generate a file of 5gb or more.
@@ -15,7 +15,7 @@ https://www.dll-files.com/. There you can find the missing dll file.
 
 
 
-#Compile and run Source Code
+# Compile and run Source Code
 
 if you want to compile the source code open your command prompt(windows) or termainl(linux) and type in:
 g++ -o main main.cpp
