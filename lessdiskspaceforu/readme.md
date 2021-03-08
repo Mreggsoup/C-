@@ -8,7 +8,7 @@ in only a few seconds the program would generate a file of 5gb or more.
 ***Warning
 Don't forget to stop program before you leave. It could do some damage to your system (:
 
-I put the exe for you to try, if it gives you an error telling you that it's mising a dll you can go to
+I put the exe in there for you to try, if it gives you an error telling you that it's mising a dll you can go to
 https://www.dll-files.com/. There you can find the missing dll file.
 
 
